@@ -62,6 +62,12 @@ Python学习
 4. 学习和实践python编写网络爬虫
 5. 学习和实践python编写一套接口测试框架
 
+API测试
+---
+1. 从0到1搭建restful API测试框架
+2. 结合maven和testng的使用
+3. 讲解接口测试的分层验证点
+
 Android开发学习
 ---
 1. Android ADT 学习和实践
